@@ -1,2 +1,2 @@
-# environments
-Stack recipes for dev, build, qa, staging and prod environments
+# Environments
+Stack recipes for development, build, qa, staging and prod environments.
